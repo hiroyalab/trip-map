@@ -1,0 +1,192 @@
+{
+  "title": "石垣島 3日間",
+  "subtitle": "2026年11月2日〜4日",
+  "days": [
+    {
+      "label": "1日目",
+      "date": "11/2 (月)",
+      "theme": "空港から西へ、ホテル周辺でのんびり",
+      "spots": [
+        {
+          "time": "12:10",
+          "name": "南ぬ島 石垣空港（到着）",
+          "address": "1960-104-1 Shiraho, Ishigaki, Okinawa 907-0243",
+          "lat": 24.3911,
+          "lng": 124.2466,
+          "zoom": 13,
+          "photo": [
+            { "search": "New Ishigaki Airport" },
+            { "search": "Painushima Ishigaki Airport terminal" }
+          ],
+          "description": "到着後、送迎車でレンタカー営業所へ移動して車を受け取る。手続きを含めて出発まで45分ほど見ておくと安心。",
+          "tags": ["空港", "レンタカー"]
+        },
+        {
+          "time": "13:30",
+          "name": "FARM&CAFE 光楽園",
+          "address": "1535-16 Hirae, Ishigaki, Okinawa",
+          "description": "空港から車で約15分、ホテルへ向かう途中。畑に囲まれたフルーツパーラーで、自家栽培グァバのドリンクやかき氷を遅めの軽いランチ代わりに。",
+          "tags": ["カフェ", "フルーツ"]
+        },
+        {
+          "time": "15:00",
+          "name": "グランヴィリオリゾート石垣島（チェックイン）",
+          "address": "2481-1 Arakawa Funakura, Ishigaki, Okinawa 907-0024",
+          "lat": 24.3572,
+          "lng": 124.1243,
+          "description": "光楽園から車で約20分。15時からチェックインできる。2泊するので荷物を広げて一息つく。駐車場は無料。",
+          "tags": ["ホテル", "2泊"],
+          "url": "https://www.grandvrio-hotelresort.com/ishigaki/"
+        },
+        {
+          "time": "16:00",
+          "name": "石垣の塩",
+          "address": "1145-57 Arakawa, Ishigaki, Okinawa 907-0024",
+          "lat": 24.378,
+          "lng": 124.1286,
+          "description": "ホテルから車で約5分。名蔵湾の海水だけで塩を作る工房の直売所。塩のテイスティングをして、工房限定の珠塩をおみやげに。18時まで営業。",
+          "tags": ["おみやげ", "工房"],
+          "url": "https://www.ishigakinoshio.com/"
+        },
+        {
+          "time": "18:00",
+          "name": "焼肉オリオン 2nd",
+          "address": "8 Ishigaki, Ishigaki, Okinawa 907-0023",
+          "lat": 24.3415,
+          "lng": 124.1562,
+          "description": "ホテルに車を置き、タクシーで約10分。飲み屋街にある古民家の焼肉店で、石垣牛とホルモンを味わう。火曜定休なので初日の月曜に。",
+          "tags": ["ディナー", "石垣牛"],
+          "url": "https://yakiniku-orion2nd.com/"
+        }
+      ]
+    },
+    {
+      "label": "2日目",
+      "date": "11/3 (火・祝)",
+      "theme": "反時計回りに島を一周",
+      "spots": [
+        {
+          "time": "11:00",
+          "name": "ヤスとカマーの店",
+          "address": "201-129 Tori, Ishigaki, Okinawa 907-0241",
+          "lat": 24.4643,
+          "lng": 124.25,
+          "description": "10時にホテルを出て、東海岸を北へ車で約55分。開店に合わせて早めのランチ。地元で愛される島の食堂で定食や八重山そばを。現金のみ。",
+          "tags": ["ランチ", "食堂"]
+        },
+        {
+          "time": "12:15",
+          "name": "玉取崎展望台",
+          "address": "Ibaruma, Ishigaki, Okinawa 907-0332",
+          "lat": 24.4905,
+          "lng": 124.2789,
+          "zoom": 13,
+          "photo": [
+            { "search": "Tamatorizaki Observatory Ishigaki" },
+            { "search": "Tamatorizaki Ishigaki" }
+          ],
+          "description": "さらに北へ車で約10分。細くくびれた平久保半島と、太平洋側・東シナ海側の両方の海を一度に見渡せる。駐車場から遊歩道で数分。",
+          "tags": ["絶景", "展望台"]
+        },
+        {
+          "time": "13:00",
+          "name": "平久保崎",
+          "address": "234-50 Hirakubo, Ishigaki, Okinawa 907-0331",
+          "lat": 24.6103,
+          "lng": 124.316,
+          "zoom": 13,
+          "photo": [
+            { "search": "Hirakubo Lighthouse Ishigaki" },
+            { "search": "Cape Hirakubo Ishigaki" }
+          ],
+          "description": "玉取崎から車で約25分。島の最北端で、白い灯台と左右に広がる海が見渡せる。灯台そばの夕凪商店（キッチンカー）でジュースやジェラートを。",
+          "tags": ["絶景", "灯台"]
+        },
+        {
+          "time": "14:45",
+          "name": "川平マエタケ農園",
+          "address": "1287-90 Kabira, Ishigaki, Okinawa 907-0453",
+          "lat": 24.4459,
+          "lng": 124.1257,
+          "description": "北海岸の道を西へ車で約1時間。途中の吉原では狩俣ストア（14時開店）で島野菜をのぞける。農園では川平産パインのスムージーが名物。",
+          "tags": ["スイーツ", "パイン"],
+          "url": "https://kabiramaetakenouen.com/"
+        },
+        {
+          "time": "15:30",
+          "name": "川平湾",
+          "address": "Kabira, Ishigaki, Okinawa 907-0453",
+          "lat": 24.4501,
+          "lng": 124.1436,
+          "zoom": 13,
+          "photo": [
+            { "search": "Kabira Bay Ishigaki" },
+            { "search": "Kabira Bay glass bottom boat" }
+          ],
+          "description": "農園から車で約5分。石垣島を代表する景勝地。遊泳は禁止なので、展望地からの景色やグラスボートで海の色を楽しむ。ホテルまでは車で約25分。",
+          "tags": ["絶景", "海"]
+        },
+        {
+          "time": "18:30",
+          "name": "えいこ鮮魚店",
+          "address": "27-5 Shinei-cho, Ishigaki, Okinawa",
+          "lat": 24.3459,
+          "lng": 124.151,
+          "description": "ホテルで休んでからタクシーで約10分。鮮魚店の直営食堂で、漁船から直接届く魚の刺身盛りや島料理を。人気店なので予約がおすすめ。日曜定休。",
+          "tags": ["ディナー", "海鮮"]
+        }
+      ]
+    },
+    {
+      "label": "3日目",
+      "date": "11/4 (水)",
+      "theme": "港の周りでおみやげ、そして帰路へ",
+      "spots": [
+        {
+          "time": "08:15",
+          "name": "麺処 鬼垣島",
+          "address": "2-2-31 Hamasaki-cho, Ishigaki, Okinawa",
+          "lat": 24.341,
+          "lng": 124.1505,
+          "description": "ホテルをチェックアウトし、車で約10分。朝7時から開いている担々麺の店。辛さと胡麻の種類を選べる担々麺や丼もので朝ごはんにする。",
+          "tags": ["朝食", "担々麺"]
+        },
+        {
+          "time": "09:15",
+          "name": "JAファーマーズマーケットやえやま ゆらてぃく市場",
+          "address": "1-2 Shinei-cho, Ishigaki, Okinawa",
+          "lat": 24.3418,
+          "lng": 124.1542,
+          "description": "車で約3分。9時に開くJAの直売所で、島のフルーツや黒糖、調味料など、地元の人も使う品ぞろえからおみやげを選ぶ。",
+          "tags": ["おみやげ", "直売所"]
+        },
+        {
+          "time": "10:00",
+          "name": "石垣港離島ターミナル（マリヤシェイク）",
+          "address": "1 Misaki-cho, Ishigaki, Okinawa",
+          "lat": 24.3369,
+          "lng": 124.1555,
+          "photo": [
+            { "search": "Ishigaki Port Remote Island Terminal" },
+            { "search": "Ishigaki Port" }
+          ],
+          "description": "車で約3分。ターミナル内の七人本舗で、地元の牧場の牛乳を使った濃いマリヤシェイクを。徒歩30秒のマルハ鮮魚で海産物をのぞくのもおすすめ。",
+          "tags": ["シェイク", "港"]
+        },
+        {
+          "time": "11:30",
+          "name": "南ぬ島 石垣空港（出発）",
+          "address": "1960-104-1 Shiraho, Ishigaki, Okinawa 907-0243",
+          "lat": 24.3911,
+          "lng": 124.2466,
+          "zoom": 13,
+          "photo": [
+            { "search": "New Ishigaki Airport" }
+          ],
+          "description": "港から空港方面へ車で約30分。営業所でレンタカーを返し、送迎車で空港へ。12:35の出発便に向けて、搭乗手続きと保安検査を済ませる。",
+          "tags": ["空港", "レンタカー返却"]
+        }
+      ]
+    }
+  ]
+}
